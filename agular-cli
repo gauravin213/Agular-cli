@@ -1,0 +1,43 @@
+#3.  Install The nvx for node js:
+Site 1: https://www.liquidweb.com/kb/how-to-install-nvm-node-version-manager-for-node-js-on-ubuntu-12-04-lts/
+Site 2: https://tecadmin.net/install-nodejs-with-nvm/
+nvm use v10.15.0
+
+
+#5. Check agular js version
+Site: https://tecadmin.net/install-angular-on-ubuntu/
+npm update toh-pt6
+
+ng serve --open --port 
+
+
+
+
+node -v
+npm -v
+ng version
+
+
+
+Install node js 
+
+sudo apt install nodejs
+
+node --version
+npm --version
+
+
+
+Install Agular cli
+
+npm install -g @angular/cli
+
+ng --version
+
+http://angular.io/analytics
+
+
+create project:
+
+ng new myfirstagularproject
+
